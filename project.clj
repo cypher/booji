@@ -1,6 +1,6 @@
 (defproject booji "0.1.0-SNAPSHOT"
             :description "Your friendly irc robot and god of buckets"
-            :url "http://cypher.github.com/booji"
+            :url "http://nuclearsquid.com/booji/"
             :namespaces [com.nuclearsquid.booji]
 
             :dependencies [[org.clojure/clojure "1.2.0-master-SNAPSHOT"]
